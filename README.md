@@ -3,7 +3,7 @@
 Welcome to the official repository for **"Smart Contract Security for Developers: A Guide to Auditing and Best Practices"**. This book is dedicated to helping developers understand, audit, and secure smart contracts for blockchain applications. <br>
  
 <p align="center">
-  <img src="./images/cover.png" alt="cover" width="400"/>
+  <img src="./images/cover.jpg" alt="cover" width="400"/>
 </p>
 
  
